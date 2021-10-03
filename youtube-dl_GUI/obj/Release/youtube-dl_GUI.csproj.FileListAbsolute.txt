@@ -1,0 +1,9 @@
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Release\youtube-dl_GUI.exe.config
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Release\youtube-dl_GUI.exe
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Release\youtube-dl_GUI.pdb
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube_dl_GUI.Form1.resources
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube_dl_GUI.Properties.Resources.resources
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube-dl_GUI.csproj.GenerateResource.cache
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube-dl_GUI.csproj.CoreCompileInputs.cache
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube-dl_GUI.exe
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Release\youtube-dl_GUI.pdb
