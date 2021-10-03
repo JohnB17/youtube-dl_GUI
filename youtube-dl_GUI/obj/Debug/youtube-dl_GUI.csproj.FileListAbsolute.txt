@@ -1,0 +1,10 @@
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Debug\youtube-dl_GUI.exe.config
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Debug\youtube-dl_GUI.exe
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\bin\Debug\youtube-dl_GUI.pdb
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube-dl_GUI.csprojAssemblyReference.cache
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube_dl_GUI.Form1.resources
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube_dl_GUI.Properties.Resources.resources
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube-dl_GUI.csproj.GenerateResource.cache
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube-dl_GUI.csproj.CoreCompileInputs.cache
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube-dl_GUI.exe
+C:\Users\bucki\source\repos\youtube-dl_GUI\youtube-dl_GUI\obj\Debug\youtube-dl_GUI.pdb
