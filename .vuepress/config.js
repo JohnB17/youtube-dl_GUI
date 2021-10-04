@@ -9,6 +9,11 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+  /**
+   * Ref：https://v1.vuepress.vuejs.org/config/#base
+   */
+  base: '/youtube-dl_GUI/',
+  
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -27,10 +32,13 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'JohnB17/youtube-dl_GUI',
+    repoLabel: 'Contribute!',
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: '.',
+    docsBranch: 'gh-pages-main',
+    editLinks: true,
+    editLinkText: 'Edit this page',
     lastUpdated: false,
     nav: [
       {
