@@ -39,10 +39,7 @@
 name: .NET Core Desktop
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
 
@@ -56,7 +53,15 @@ jobs:
                              # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
 
     env:
-      Solution_Name: youtube-dl_GUI.sln                         # Replace with your solution name, i.e. MyWpfApp.sln.
+      Solution_Name: youtube-dl_GUI.sln
+      Folder_Name: youtube-dl_GUI
+      EXE_Name: youtube-dl_GUI.exe
+      Tag_Name: v1.1
+      Release_Name: v1.1
+      Body: Linux and macOS coming soon.
+      Draft: false
+      Pre_Release: false
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
     - name: Checkout
@@ -94,4 +99,14 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: MSIX Package
-        path: youtube-dl_GUI\bin\Release\youtube-dl_GUI.exe
+        path: $env:Folder_Name\bin\Release\$env:EXE_Name
+
+    - name: Upload build
+      uses: actions/create-release@v1
+      with:
+        tag_name: $env:Tag_Name
+        release_name: $env:Release_Name
+        body: $env:Body
+        draft: $env:Draft
+        prerelease: $env:Pre_Release
+        
