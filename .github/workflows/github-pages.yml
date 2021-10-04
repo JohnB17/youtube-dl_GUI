@@ -1,7 +1,5 @@
 name: GitHub Pages
-on:
-  push:
-  workflow_dispatch:
+on: [push, pull_request]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
