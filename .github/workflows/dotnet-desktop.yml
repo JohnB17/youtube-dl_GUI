@@ -54,11 +54,6 @@ jobs:
 
     env:
       Solution_Name: youtube-dl_GUI.sln
-      Tag_Name: v1.1
-      Release_Name: v1.1
-      Body: Linux and macOS coming soon.
-      Draft: false
-      Pre_Release: false
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
@@ -93,9 +88,9 @@ jobs:
     - name: Upload build
       uses: actions/create-release@v1
       with:
-        tag_name: $env:Tag_Name
-        release_name: $env:Release_Name
-        body: $env:Body
-        draft: $env:Draft
-        prerelease: $env:Pre_Release
+        tag_name: v1.1
+        release_name: v1.1
+        body: Linux and macOS coming soon.
+        draft: false
+        prerelease: false
         
