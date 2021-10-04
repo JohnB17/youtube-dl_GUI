@@ -1,5 +1,5 @@
-name: GitHub pages
-on: 
+name: GitHub Pages
+on:
   push:
   workflow_dispatch:
 jobs:
