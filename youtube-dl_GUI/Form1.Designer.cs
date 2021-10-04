@@ -50,7 +50,7 @@ namespace youtube_dl_GUI
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "https://youtube.com/watch?v=blabla123";
+            this.textBox1.Text = "YouTube Video URL";
             // 
             // label1
             // 
