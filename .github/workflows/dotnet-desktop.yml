@@ -93,4 +93,5 @@ jobs:
         body: Linux and macOS coming soon.
         draft: false
         prerelease: false
+        binaries: youtube-dl_GUI\bin\Release\youtube-dl_GUI.exe
         
