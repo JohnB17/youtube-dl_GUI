@@ -89,9 +89,9 @@ jobs:
       id: create_release
       uses: actions/create-release@v1
       with:
-        tag_name: v1.1
-        release_name: v1.1
-        body: Linux and macOS coming soon.
+        tag_name: v1.2
+        release_name: v1.2
+        body: Fixed window title. Linux and macOS coming soon.
         draft: false
         prerelease: false
         binaries: youtube-dl_GUI\bin\Release\youtube-dl_GUI.exe
