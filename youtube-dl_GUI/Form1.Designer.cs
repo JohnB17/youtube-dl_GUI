@@ -69,8 +69,8 @@ namespace youtube_dl_GUI
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "youtube-dl_GUI";
+            this.Text = "youtube-dl_GUI";
             this.ResumeLayout(false);
             this.PerformLayout();
 
