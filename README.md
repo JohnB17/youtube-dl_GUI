@@ -8,5 +8,7 @@ https://github.com/jely2002/youtube-dl-gui
 <br/>
 https://github.com/JaGoLi/ytdl-gui
 
+**I will be changing from using youtube-dl to yt-dlp, if you don't like this change make an issue and say why it's a bad idea.**
+
 ### Setup:
 1. Put the youtube-dl_GUI.exe file in the same directory as youtube-dl.exe
