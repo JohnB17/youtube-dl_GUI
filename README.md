@@ -3,10 +3,9 @@
 youtube-dl_GUI is a GUI for youtube-dl.exe it is currently a proof of concept though.
 
 Going to continue with this, but here are some other projects that profess the same thing.
-
-
+<br/><br/>
 https://github.com/jely2002/youtube-dl-gui
-
+<br/>
 https://github.com/JaGoLi/ytdl-gui
 
 ### Setup:
